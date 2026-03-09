@@ -62,18 +62,9 @@ int main() {
     }
     return 0;
 }
-
-
-
 ```
-
-## Write a C program that illustrates two processes communicating using shared memory.
-
-
-
-
-
 ## OUTPUT
+![OUTPUT](EX6.png)
 
 
 # RESULT:
